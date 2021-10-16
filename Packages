@@ -91,18 +91,19 @@ Depiction: https://ProtonFile.github.io/depic/newtermtm.html
 Name: NewTerm Theme Manager
 Author: NeutronFile <neutronfile19@hotmail.com>
 
-Package: com.tigisoftware.filza
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.16-2
+Filename: ./debs//com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 3024992 
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
 Architecture: iphoneos-arm
-Version: 3.9.0-2
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Author: CokePokes
 Section: Tweaks
 Maintainer: Neutronfile
-Depends: zip, unzip, gzip, unrar, p7zip
-Filename: ./debs//com.neutronfile.filza_3.6.1-1_iphoneos-arm.deb
-Size: 13114258
-MD5sum: a5ebbdc74129206764655f511f1b29d7
-SHA1: e53adb6b48bb94db87257b32a911d6ba1aecec5f
-SHA256: 7e6446d0ba8c0c9c4214fca8df7a8f235ac9c64196f46ac4bdaf3fd6c85c75cc
-Description: zip, unzip, gzip, unrar, p7zip
-Name: Filza File Manager
-Author: TIGI Software
-Depiction: https://elhizazi1.github.io/NF.io/depic/filza.html
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
