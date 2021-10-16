@@ -91,19 +91,3 @@ Depiction: https://ProtonFile.github.io/depic/newtermtm.html
 Name: NewTerm Theme Manager
 Author: NeutronFile <neutronfile19@hotmail.com>
 
-Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Version: 0.9.16-2
-Filename: ./debs//com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
-Size: 3024992 
-MD5sum: e953eed8ca5b093477ba291a16c96d9e
-SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
-SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
-Architecture: iphoneos-arm
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Author: CokePokes
-Section: Tweaks
-Maintainer: Neutronfile
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
