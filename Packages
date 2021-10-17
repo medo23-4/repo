@@ -91,3 +91,20 @@ Depiction: https://ProtonFile.github.io/depic/newtermtm.html
 Name: NewTerm Theme Manager
 Author: NeutronFile <neutronfile19@hotmail.com>
 
+Package: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Version: 3.9.0-2
+Section: Tweaks
+Maintainer: medo
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: ./debs//com.neutronfile.filza_3.6.1-1_iphoneos-arm.deb
+Size: 13114258
+Installed-Siza: 32244
+MD5sum: a5ebbdc74129206764655f511f1b29d7
+SHA1: e53adb6b48bb94db87257b32a911d6ba1aecec5f
+SHA256: 7e6446d0ba8c0c9c4214fca8df7a8f235ac9c64196f46ac4bdaf3fd6c85c75cc
+Description:File Manager for iPhone, iPad, iPod Touch. Supprts iOS 7+
+Name: Filza File Manager
+Author: TIGI Software
+Depiction: https://medo23-4.github.io/repo/
+Conflicts: com.tigisoftware.filza64bit
