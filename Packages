@@ -91,20 +91,20 @@ Depiction: https://ProtonFile.github.io/depic/newtermtm.html
 Name: NewTerm Theme Manager
 Author: NeutronFile <neutronfile19@hotmail.com>
 
-Package: com.opa334.choicy
+Package: com.opa334.choicyloader
+Version: 1.2.3
 Architecture: iphoneos-arm
-Version: 1.3.6
-Section: Tweaks
-Maintainer: medo
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs//choicy_1.3.6.deb
-Size: 109446 
-Installed-Siza: 789
-MD5sum: 837e66fe1a21936dc22293bb16956660
-SHA1: 4f2077ff1f943ea00719ef4b753e65ae7c995449
-SHA256: 9be8e2a2199199dde4074e349bcc3d83b3b0bf95cf0c3a1d258e69f1245ee0b3
-Description: Advanced Tweak Configuration!
-Name: Choicy
+Maintainer: opa334
+Installed-Size: 228
+Depends: com.opa334.choicy
+Conflicts: science.xnu.substitute, com.ex.substitute, org.coolstar.tweakinject, org.coolstar.libhooker
+Filename: ./debs//com.opa334.choicyloader_1.2.3_iphoneos-arm.deb
+Size: 21280
+MD5sum: 6a144b3c43b6bc963d874cdff7da4ce4
+SHA1: 81028e8c897b5ae6b3ba571c22a7836cffa4c05b
+SHA256: 21da3b2e3d586de1da895ab09de1a594f1dc1ab137d8ebc2a8c4460f55266a5d
+Section: System
+Description: Hacky workaround to always load Choicy first
 Author: opa334
-Depiction: https://medo23-4.github.io/repo/
-Conflicts: iOS 10+
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
