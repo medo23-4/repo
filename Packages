@@ -91,3 +91,20 @@ Depiction: https://ProtonFile.github.io/depic/newtermtm.html
 Name: NewTerm Theme Manager
 Author: NeutronFile <neutronfile19@hotmail.com>
 
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
+Version: 1.3.6
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs//choicy_1.3.6.deb
+Size: 109446 
+Installed-Siza: 789
+MD5sum: 837e66fe1a21936dc22293bb16956660
+SHA1: 4f2077ff1f943ea00719ef4b753e65ae7c995449
+SHA256: 9be8e2a2199199dde4074e349bcc3d83b3b0bf95cf0c3a1d258e69f1245ee0b3
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Author: opa334
+Depiction: https://medo23-4.github.io/repo/
+Conflicts: iOS 10+
