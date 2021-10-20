@@ -70,22 +70,6 @@ Section: Utilities
 Version: 1.6.1-10
 Installed-Size: 9112
 
-Package: com.haoict.tiktokgod
-Version: 1.12.0
-Section: Tweaks
-Maintainer: Hao Nguyen
-Depends: mobilesubstrate, preferenceloader, 
-com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
-Filename: ./debs//com.haoict.tiktokgod_1.12.0_iphoneos-arm.deb
-Architecture: iphoneos-arm
-Size: 52732 
-MD5sum: f3f06a762c19adef5c4d299fb24542a9
-SHA1: 2301e42782a93ba68bea2806004a59c860638152
-SHA256: a2b761a4e704740e424b0a2995b3875c7a8f85273df8b7a6e174392f832984e3
-Installed-Size: 408
-Name: TikTok God
-Author: Hao Nguyen
-
 Package: com.rpgfarm.a-bypass
 Name: A-Bypass
 Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
@@ -102,5 +86,24 @@ Section: Tweaks
 Version: 1.5.4
 Installed-Size: 848
 
-
+Package: me.alfhaily.cercube
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Size: 4167174 
+MD5sum: e88c4821ab8d2066443258b8efd7af9e
+SHA1: d00014b46640acc080a1f641caa008fb0465d5f3
+SHA256: 5f1f053a08f0938b741110d823fc23cc5d765283b5a589ef56f9df18ba5bae9d
+Priority: optional
+Architecture: iphoneos-arm
+Filename: ./debs//me.alfhaily.cercube_5.3.3_iphoneos-arm.deb
+Author: Majd Alfhaily
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Version: 5.3.3
+Installed-Size: 16732
 
