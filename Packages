@@ -15,3 +15,24 @@ Size:8476070
 Section: Utilities
 Version: 3.9.0-2
 Installed-Size: 21860
+
+Package: ws.hbang.newtermfonts
+Name: NewTerm Fonts Add-on
+Depends: ws.hbang.newterm2 (>= 2.5)
+Breaks: ws.hbang.newterm2 (<< 2.5)
+Architecture: iphoneos-arm
+Description: Optional extra fonts for NewTerm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://chariz.com/cdn/icon/newterm-fonts/icon@3x.png
+Size: 1492720 
+Filename: ./debs//ws.hbang.newtermfonts_1.0_iphoneos-arm.deb
+Depiction: https://chariz.com/get/newterm-fonts
+Support: https://hashbang.productions/support/
+MD5sum: 699ce0daf1d6feac2a70f934588a4be8
+SHA1: 64f1ab48edb0b25f37b56e1f65a62d0c4341ba5e
+SHA256: a0320e5685f8d208156772cf2734ea81e03221fbb5cde4fe8d2f39da145b074d
+Tag: compatible_min::ios10.0
+Version: 1.0
+Installed-Size: 4468
