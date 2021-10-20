@@ -86,4 +86,21 @@ Installed-Size: 408
 Name: TikTok God
 Author: Hao Nguyen
 
+Package: com.rpgfarm.a-bypass
+Name: A-Bypass
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Architecture: iphoneos-arm
+Description: Super Jailbreak detection bypass!
+Filename: ./debs//com.rpgfarm.a-bypass.deb
+Maintainer: Baw Appie <pp121324@gmail.com>
+Size: 100688
+MD5sum: e1eb6c4db0a9d111fd280896ef3a41f8
+SHA1: bad5157c3c6237fd7b9f48c53d56f021c2c78440
+SHA256: 3dcadcdebe4193115ab79ff00048df753893703e7a90b22a3b7e49246c103236
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.5.4
+Installed-Size: 848
+
+
 
