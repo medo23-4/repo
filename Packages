@@ -36,3 +36,21 @@ SHA256: a0320e5685f8d208156772cf2734ea81e03221fbb5cde4fe8d2f39da145b074d
 Tag: compatible_min::ios10.0
 Version: 1.0
 Installed-Size: 4468
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.16-2
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Filename: ./debs//com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
+Size: 3024992 
+Architecture: iphoneos-arm
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CokePokes
