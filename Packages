@@ -70,3 +70,20 @@ Section: Utilities
 Version: 1.6.1-10
 Installed-Size: 9112
 
+Package: com.haoict.tiktokgod
+Version: 1.12.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, 
+com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs//com.haoict.tiktokgod_1.12.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Size: 52732 
+MD5sum: f3f06a762c19adef5c4d299fb24542a9
+SHA1: 2301e42782a93ba68bea2806004a59c860638152
+SHA256: a2b761a4e704740e424b0a2995b3875c7a8f85273df8b7a6e174392f832984e3
+Installed-Size: 408
+Name: TikTok God
+Author: Hao Nguyen
+
+
