@@ -54,3 +54,19 @@ Architecture: iphoneos-arm
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Maintainer: CokePokes
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Filename: ./debs//com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
+Maintainer: TIGI Software
+Author: TIGI Software
+Size: 3677508 
+MD5sum: 64ae3998d4c3e283506a5228bd8789a1
+SHA1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
+SHA256: 7d8d484d669ba4e3c6e71b1a1f10cde4f9a9eed48d1103ec0acbda96f0016362
+Section: Utilities
+Version: 1.6.1-10
+Installed-Size: 9112
+
