@@ -143,3 +143,25 @@ Architecture: iphoneos-arm
 Name: DeadTweak
 Author: Dead guy
 Sponsor: medo
+
+Author: Ahmad Mokadam <ahmadmokaddam@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Whatsapp Revael
+Package: org.thebigboss.whatsapprevael
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Section: Tweaks
+Installed-Size: 3670
+Version: 10.1-1
+Filename: ./debs//whatsapprevael_10.1-1.deb
+Size: 767486 
+MD5sum: 2646e045726d5ee8724134ac38d44d6f
+SHA1: 2141e68c5f09de2af92719af804e7abc44070404
+SHA256: 9109c8e4e8dbbe0ff2bf00f7c79014179e8a4326e06ce06b8c6ef2fb3d0fc972
+Architecture: iphoneos-arm
+Description: Many features of the WhatsApp application
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ahmadmokaddam
+Tag: purpose::extension
+Icon: file:///Library/Application%20Support/WARevael.bundle/icon@2x.png
