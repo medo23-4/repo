@@ -213,3 +213,46 @@ dev: opa334
 Tag: purpose::extension
 Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
 
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.5.2~EOL
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs//com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14406348 
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.gramplus/
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.gramplus/
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Instagram ++
+Package: com.unlimapps.gramplus
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus, com.jake0oo0.instabetter, com.insanj.savegram
+Filename: ./debs//com.unlimapps.gramplus_1.8r-330_iphoneos-arm.deb
+Size: 9602816 
+MD5sum: 9e5eee7185bfa96c06149d4159aae9f8
+SHA1: 425c48093e2f2751cdc1621fc3587e601a1190bb
+SHA256: 0b220bd95d09b1af792bb04a9edc5048d1fddc516b741104dd1041c80055c03d
+Section: Tweaks
+Version: 1.8r-330
+Architecture: iphoneos-arm
+Description: Download & Copy Instagram media
+dev: i4iphones
+Tag: purpose::extension, ios7support::1, ios8support::1
+
+
