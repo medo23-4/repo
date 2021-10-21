@@ -144,4 +144,40 @@ Name: DeadTweak
 Author: Dead guy
 Sponsor: medo
 
+Package: com.modmyi.almohannadfontios8
+Name: Al Mohannad Font iOS8
+Version: 1.4-1
+Architecture: iphoneos-arm
+Author: Dollar_2014 <whm_2011@hotmail.com>
+Depiction: http://modmyi.com/info/almohannadfontios8.d.php
+Priority: extra
+Section: Fonts (BytaFont 2)
+Filename: ./debs//com.modmyi.almohannadfontios8_1.4-1_iphoneos-arm.deb
+Size: 5251834 
+MD5sum: 4853f6315ecbae59adfc23c688250e8a
+SHA1: 9312118d49047892e89264fcc07190af2635db59
+SHA256: 218a107ebf45d07ef8084c2c104dc3279b53c9b35cf75fc552f19a2e34453394
+Description: Al Mohannad Font iOS8
+Homepage: http://modmyi.com/info/almohannadfontios8.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.bytafont.bytafont2
+Depends: firmware (>= 7),applist,unzip
+Name: BytaFont 2
+Version: 2.6.4
+Architecture: iphoneos-arm
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
+Filename: ./debs//com.bytafont.bytafont2_2.6.4_iphoneos-arm.deb
+Size: 1694528 
+MD5sum: 2c2f4a8788927f4c30014989fe76af85
+SHA1: e05b53e7ed279ba4c278617cf7a4710d62d1ce44
+SHA256: 8ba789fdb17d41a3560937df545b52525a3dfd0b9205d08c3098c815c4d51c76
+Depiction: http://repo.bytafont.com/bytafont/264
+Maintainer: BytaFont.com <info@bytafont.com>
+Author: BytaFont.com <info@bytafont.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Section: System
+
+
 
