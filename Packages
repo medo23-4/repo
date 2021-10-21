@@ -128,3 +128,20 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Version: 102.0
 Installed-Size: 732
 
+Package: com.deadtweak
+Version: 1.7.1
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+SileoDepiction: https://medo23-4.github.io/repo/
+Filename: ./debs//com.deadtweak_1.7.1_iphoneos-arm.deb
+Size: 5079114 
+MD5sum: 96b2f4f3687dc22c86413dd0e65bc1c7
+SHA1: b021528da360ed6aeca36ee5d33adb3c5b23661d
+SHA256: fe23a2d3602c0b57348099f8f5b2e256d6f864ee2de377a0b8676827a193adf5
+Architecture: iphoneos-arm
+Name: DeadTweak
+Author: Dead guy
+Sponsor: medo
+
+
