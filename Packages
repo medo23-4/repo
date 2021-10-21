@@ -165,3 +165,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: ahmadmokaddam
 Tag: purpose::extension
 Icon: file:///Library/Application%20Support/WARevael.bundle/icon@2x.png
+
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 14)
+Package: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Architecture: iphoneos-arm
+Description: The power supply relation of a device is operated.
+Filename: ./debs//com.ichitaso.powerselector11_1.3.3_iphoneos-arm.deb
+Size: 215836 
+MD5sum: acdd395e70d757afa84bcdc4f0cfda35
+SHA1: 9b6a455c3e5a3fd8524d73738dc962b3093560f4
+SHA256: a60c4ba3fd59462a90829392d8d02b4b6f801d534cad55023d0effdf1b6ed17f
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Version: 1.3.3
+Installed-Size: 2424
+
