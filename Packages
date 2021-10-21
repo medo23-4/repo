@@ -256,18 +256,21 @@ dev: i4iphones
 Tag: purpose::extension, ios7support::1, ios8support::1
 
 Package: com.medo.icleanerpro
-Version: 7.9.1
-Section: Utilities
-Maintainer: medo
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs//com.medo.icleanerpro_7.9.deb
-Size: 6694424 
-MD5sum: 5f0fe05dc771997f6e859de6a5a43244
-SHA1: a4e47d4f4561db3b352e322bc1bb55b2cf81249e
-SHA256: fa7240f0877e30ab8bcb2a93624379925e47d6198ebaad66a139d8631bad3341
-Conflicts: org.altervista.medo.icleaner
-Replaces: org.altervista.medo.icleaner
-Architecture: iphoneos-arm
 Name: iCleaner Pro
-Author: medo
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.9.1
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Filename: ./debs//com.medo.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 6756198 
+MD5sum: 0c2ac513199594b811c736385a669975
+SHA1: 675149c6a33afd5ce598e2e624625424bf8f93b3
+SHA256: 063f082f50e0adcca5ffd1c7aa39a92065d358ced6980bfde6e43f6bdb22db8d
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
