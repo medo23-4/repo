@@ -255,4 +255,19 @@ Description: Download & Copy Instagram media
 dev: i4iphones
 Tag: purpose::extension, ios7support::1, ios8support::1
 
-
+Package: com.medo.icleanerpro
+Version: 7.9.1
+Section: Utilities
+Maintainer: medo
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs//com.medo.icleanerpro_7.9.deb
+Size: 6694424 
+MD5sum: 5f0fe05dc771997f6e859de6a5a43244
+SHA1: a4e47d4f4561db3b352e322bc1bb55b2cf81249e
+SHA256: fa7240f0877e30ab8bcb2a93624379925e47d6198ebaad66a139d8631bad3341
+Conflicts: org.altervista.medo.icleaner
+Replaces: org.altervista.medo.icleaner
+Architecture: iphoneos-arm
+Name: iCleaner Pro
+Author: medo
+Icon: file:///Applications/iCleaner.app/Icon.png
