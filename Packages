@@ -4,7 +4,7 @@ Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza
 Architecture: iphoneos-arm
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
-Filename: ./debs//
+Filename: ./debs//com.tigisoftware.filza64bit_3.9.0-2_iphoneos-arm.deb
 MD5sum: b5c0faa9d5650c370640adf3097b9a23
 SHA1: c64f82dfdac3a6e6233553852602bbb428137697
 SHA256: 624206dcc388e5e70f783fc066ad4713a102ade40f6205d33ff0dae951092982
