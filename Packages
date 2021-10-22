@@ -274,3 +274,20 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.medo-cydia.arabhack
+Version: 5.0.1
+Description: اداة عرب كراك لتهكير تضم مجموعه كبيره من البرامج المهكره مجانا لاصحاب الجلبريك
+Section: Tweaks
+Maintainer: medo For medo
+Filename: ./debs//com.medo-cydia.arabhack_5.0.deb
+Size: 733228 
+MD5sum: b9ef03426994db1bbe8893e7ad3b8967
+SHA1: 9bb4e070f10c269c70834c0a6093faf9268c1670
+SHA256: 7cd4d11d26be4cf0cb789e8d45eb777888e6b11c6c05a0773fcfdcbb71d0968c
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 2044
+Name: Arab Hack
+Author: medo For medo
+
