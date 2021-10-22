@@ -314,4 +314,18 @@ Depiction: https://chariz.com/get/snowboard
 Tag: compatible_min::ios7.0
 Installed-Size: 5076
 
+Package: medo.darque
+Version: 1.6
+Section: Themes
+Maintainer: medo
+Filename: ./debs//medo.darque_1.deb
+Size: 5980380 
+MD5sum: eaa2adda41f08f9d686ba93f6c7cce7e
+SHA1: 5ecd775c67fd3b9f0dacba09b21274237d0a2375
+SHA256: a5f2bb03cd548b65a784269619d8898127722583f9405a554eccda682c3eb308
+SileoDepiction: https://medo23-4.github.io/repo/
+Architecture: iphoneos-arm
+Name: Darque
+Author: medo
+Sponsor: https://medo23-4.github.io/repo/
 
