@@ -377,4 +377,20 @@ Architecture: iphoneos-arm
 Name: DeadTweak 14
 Author: Dead guy
 
+Package: com.snap.halem
+Version: 1.0-0+debug-1+debug
+Section: Tweaks
+Maintainer: medo
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+SileoDepiction: غير مسؤل عن الحظر
+Architecture: iphoneos-arm
+Filename: ./debs//com.snap.halem_1.deb
+Size: 5407216 
+MD5sum: b73a1175cbdde455af850cb45022326b
+SHA1: 2018271dca12ea4dd3d341f4d2b7dcd81580a7e8
+SHA256: 26f0d7b786e26088259f6ca638f6c2a1829d1869c55d6486e9f7248218798fd7
+Installed-Size: 452
+Name: Snap++
+Author: medo
+Sponsor: @medo
 
