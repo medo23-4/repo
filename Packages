@@ -394,3 +394,20 @@ Name: Snap++
 Author: medo
 Sponsor: @medo
 
+Package: com.medo.repo
+Version: 3.0.1
+Section: Tweaks
+Maintainer: @medo
+Depends: mobilesubstrate
+SileoDepiction: medo
+Filename: ./debs//com.medo.repo_3.0.1_iphoneos-arm.deb
+Size: 118118 
+MD5sum: 0def46eddf9ff7cab32cd4e9c0f3ef67
+SHA1: cd9286041b6bc0df37fb50f0e254c9cad97f264e
+SHA256: 5892cd3009dc3bd2ebcf89a498f45b04b40761b7a0116e0fc4fefe27581d91dc
+Architecture: iphoneos-arm
+Installed-Size: 416
+Name: Video Star Hack
+Author: medo
+Sponsor: @medo
+
