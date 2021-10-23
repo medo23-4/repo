@@ -362,4 +362,19 @@ Author: medo
 Sponsor: medo 
 Section: System
 
+Package: com.medo.DeadTweak14
+Version: 1.7.1
+Section: Tweaks
+Maintainer: @medo
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+SileoDepiction: سناب بريك يدعم اصدار14
+Filename: ./debs//com.medo.deadtweak14_1.7.deb
+Size: 5795298 
+MD5sum: a85942eca0a753c6c4b8a7a1a207d5af
+SHA1: 763dda0b0635d8881fef6fa62d555774041a8320
+SHA256: 179b48b562df3a576427ce4f185973532755b089108815b8cc7a6d30808b2814
+Architecture: iphoneos-arm
+Name: DeadTweak 14
+Author: Dead guy
+
 
