@@ -411,3 +411,18 @@ Name: Video Star Hack
 Author: medo
 Sponsor: @medo
 
+Package: com.medo.sa
+Name: vpn ماستر
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @medo
+Filename: ./debs//com.medo.sa_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10490 
+MD5sum: 1f81c9a7a1befedd5db59c9ace81b27d
+SHA1: de85c650764cdb11a67a956b472d68676eb205bd
+SHA256: dcd98bc3afe44507ed11bddfa15c46e6d55d5c5a72194432df711dc3268f3f06
+Author: @medo
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 184
