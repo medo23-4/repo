@@ -329,3 +329,20 @@ Name: Darque
 Author: medo
 Sponsor: https://medo23-4.github.io/repo/
 
+Package: com.medo.a-font
+Version: 1.9.3
+Section: Tweaks
+Description:تغيير خط الجهاز
+Maintainer: medo
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs//com.medo.a-font_1.9.deb
+Size: 867802 
+MD5sum: de07eb14289654b1b0c86f9b7eeeb7a2
+SHA1: 66616730909e47521827d2e71b5e851a4724aa57
+SHA256: e42a47e18f729374f999bd7c00650bd79546ced9213315cc6513194181a96cfc
+Architecture: iphoneos-arm
+Installed-Size: 2380
+Name: A-Font
+Author: medo
+
+
