@@ -133,8 +133,8 @@ Version: 1.7.1
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 10.0), mobilesubstrate, sed
-SileoDepiction: https://medo23-4.github.io/repo/
-Filename: ./debs//com.deadtweak_1.7.1_iphoneos-arm.deb
+SileoDepiction: https://github.com/medo23-4/repo/blob/master/depic/medo.html
+Filename: ./debs//com.com.deadtweak_1.7.deb
 Size: 5079114 
 MD5sum: 96b2f4f3687dc22c86413dd0e65bc1c7
 SHA1: b021528da360ed6aeca36ee5d33adb3c5b23661d
