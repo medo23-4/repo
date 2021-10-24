@@ -447,3 +447,22 @@ Author: medo
 Sponsor: medo
 Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
 Tag: compatible_min::ios10.0
+
+Package: com.medo.appdata
+Name: AppData
+Version: 1.3.6
+Description: View & Manage Applications Data from your Home Screen
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts:
+Architecture: iphoneos-arm
+Author: medo
+Filename: ./debs//com.medo.appdata_1.3.6_iphoneos-arm.deb
+Size: 269300 
+MD5sum: 8e2c9b4aa1482efe9c3e94aecbcc62e4
+SHA1: db667ab9e1c0c33b41b43e70711942395d7bf618
+SHA256: a4ef720a423e796744be8ffb41830729d273b29362d2ae3521160847e06c95ad
+Maintainer: medo
+Depiction: medo
+SileoDepiction: medo
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
