@@ -478,3 +478,18 @@ Name: CrackerXI+
 Author: medo
 Sponsor: medo
 Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: com.julioverne.cydown
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: CyDown
+Filename: ./debs//com.medo.cydown_7.1.deb
+Size: 4357370 
+MD5sum: 4a3d9a9e77dcc4e64b8203622a6ee28f
+SHA1: d6dd9c02ddbcaae3585618f37389ef131d46a1a8
+SHA256:122034823659baece9466b0257088044a6a7ed840d428c9eac48ecabeb247e2b
+Author: medo
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
