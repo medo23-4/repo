@@ -466,3 +466,20 @@ Maintainer: medo
 Depiction: medo
 SileoDepiction: medo
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
+Package: medo.otadisabler
+Version: 0.1-9
+Section: Utilities
+Maintainer: @medo
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+SileoDepiction: medo
+Filename: ./debs//medo.otadisabler_0.deb
+Size: 17368 
+MD5sum: 0b78f949287a8bb85f4bb02f32a145e8
+SHA1: ea99cca776da7e0ce12926d26f6e0d9c300b7a49
+SHA256: 883f27a9bbd97ceb5a663e1983d1384784dc019e814defbef5e69545e04fef03
+Architecture: iphoneos-arm
+Installed-Size: 204
+Name: OTADisabler (ios 13 to 14)
+Author: medo
+Sponsor: medo
