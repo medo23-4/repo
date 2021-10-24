@@ -460,3 +460,21 @@ Installed-Size: 204
 Name: OTADisabler (ios 13 to 14)
 Author: medo
 Sponsor: medo
+
+Package: medo.crackerxii
+Version: 1.1.16
+Section: System
+Maintainer: @medo
+Depends: firmware (>= 11.0)
+Description: تكريك البرامج
+SileoDepiction: medo
+Architecture: iphoneos-arm
+Filename: ./debs//medo.crackerxii_1.1.deb
+Size: 9960204 
+MD5sum: 0c44c018c246c08d09ece6cd8136e67a
+SHA1: 1694114f70fae54153dd695a11c6ac6ee5929393
+SHA256: 19f587f0937bba156d04e3c36a373e455b1ee453a73ee0c38429e64b32f6d566
+Name: CrackerXI+
+Author: medo
+Sponsor: medo
+Icon: file:///Applications/crackerxi.app/AppIcon.png
