@@ -521,11 +521,10 @@ Description: متجر سيلو بديل السيديا
 Architecture: iphoneos-arm
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
 Section: Packaging
-Filename: ./debs//org.org.medo.sileo_2.2.6_iphoneos-arm.deb
+Filename: ./debs//org.medo.sileo_2.2.6_iphoneos-arm.deb
 Size: 2600570 
 MD5sum: 600471b67c2a6708d073c1aef50a9eff
 SHA1: 88b20ef130c8d9fd58a7cadfeef6832ab14a1f01
-SHA256:7a2fb862806e64e6deb35a3ef60b8117582b685c3609a977e9dbe118d59cef9f
+SHA256: 7a2fb862806e64e6deb35a3ef60b8117582b685c3609a977e9dbe118d59cef9f
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
-
