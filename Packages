@@ -493,3 +493,22 @@ SHA1: d6dd9c02ddbcaae3585618f37389ef131d46a1a8
 SHA256:122034823659baece9466b0257088044a6a7ed840d428c9eac48ecabeb247e2b
 Author: medo
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: medo.tiktokgod
+Version: 1.12.2
+Section: Tweaks Pluss
+Maintainer: @medo
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.5.0), firmware (>= 10)
+SileoDepiction: medo
+Architecture: iphoneos-arm
+Installed-Size: 412
+Filename: ./debs//medo.tiktokgod_1.12.deb
+Description: تيك توك بلس
+Size: 71986 
+MD5sum: c2fd059a086c1b489100716376842622
+SHA1: fc1e8afe24b1b75bfd55e022d763f655b8cab640
+SHA256: 4a0e054ea1eaa69a75e2b8f0bf9c019f95fb4b83112ab45e3c5db0e7a01276ab
+Name: TikTok God
+Author: medo
+Sponsor: medo
+
