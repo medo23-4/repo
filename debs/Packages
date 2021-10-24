@@ -1,0 +1,480 @@
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Filename: ./debs//com.tigisoftware.filza64bit_3.9.0-2_iphoneos-arm.deb
+MD5sum: b5c0faa9d5650c370640adf3097b9a23
+SHA1: c64f82dfdac3a6e6233553852602bbb428137697
+SHA256: 624206dcc388e5e70f783fc066ad4713a102ade40f6205d33ff0dae951092982
+Maintainer: TIGI Software
+Author: TIGI Software
+Installed-Size : 21860
+Size:8476070 
+Section: Utilities
+Version: 3.9.0-2
+Installed-Size: 21860
+
+Package: ws.hbang.newtermfonts
+Name: NewTerm Fonts Add-on
+Depends: ws.hbang.newterm2 (>= 2.5)
+Breaks: ws.hbang.newterm2 (<< 2.5)
+Architecture: iphoneos-arm
+Description: Optional extra fonts for NewTerm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://chariz.com/cdn/icon/newterm-fonts/icon@3x.png
+Size: 1492720 
+Filename: ./debs//ws.hbang.newtermfonts_1.0_iphoneos-arm.deb
+Depiction: https://chariz.com/get/newterm-fonts
+Support: https://hashbang.productions/support/
+MD5sum: 699ce0daf1d6feac2a70f934588a4be8
+SHA1: 64f1ab48edb0b25f37b56e1f65a62d0c4341ba5e
+SHA256: a0320e5685f8d208156772cf2734ea81e03221fbb5cde4fe8d2f39da145b074d
+Tag: compatible_min::ios10.0
+Version: 1.0
+Installed-Size: 4468
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.16-2
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Filename: ./debs//com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
+Size: 3024992 
+Architecture: iphoneos-arm
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CokePokes
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Filename: ./debs//com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
+Maintainer: TIGI Software
+Author: TIGI Software
+Size: 3677508 
+MD5sum: 64ae3998d4c3e283506a5228bd8789a1
+SHA1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
+SHA256: 7d8d484d669ba4e3c6e71b1a1f10cde4f9a9eed48d1103ec0acbda96f0016362
+Section: Utilities
+Version: 1.6.1-10
+Installed-Size: 9112
+
+Package: com.rpgfarm.a-bypass
+Name: A-Bypass
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Architecture: iphoneos-arm
+Description: Super Jailbreak detection bypass!
+Filename: ./debs//com.rpgfarm.a-bypass.deb
+Maintainer: Baw Appie <pp121324@gmail.com>
+Size: 100688
+MD5sum: e1eb6c4db0a9d111fd280896ef3a41f8
+SHA1: bad5157c3c6237fd7b9f48c53d56f021c2c78440
+SHA256: 3dcadcdebe4193115ab79ff00048df753893703e7a90b22a3b7e49246c103236
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.5.4
+Installed-Size: 848
+
+Package: me.alfhaily.cercube
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Size: 4167174 
+MD5sum: e88c4821ab8d2066443258b8efd7af9e
+SHA1: d00014b46640acc080a1f641caa008fb0465d5f3
+SHA256: 5f1f053a08f0938b741110d823fc23cc5d765283b5a589ef56f9df18ba5bae9d
+Priority: optional
+Architecture: iphoneos-arm
+Filename: ./debs//me.alfhaily.cercube_5.3.3_iphoneos-arm.deb
+Author: Majd Alfhaily
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Version: 5.3.3
+Installed-Size: 16732
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8)
+Size: 58304 
+MD5sum: bfc0ae0a9d103360e8d798d5a04b9620
+SHA1: f95286f3c6dab9f39307ebdc296fcbb273b227fe
+SHA256: 5ef22d365bd66e51815f20a739f1acfc5fe1ad84b5b2a5a6dd0f2279f2ca9d56
+Filename: ./debs//nodelete-net.angelxwind.appsyncunified.deb
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Version: 102.0
+Installed-Size: 732
+
+Package: com.deadtweak
+Version: 1.7.1
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+SileoDepiction: https://github.com/medo23-4/repo/blob/master/depic/medo.html
+Filename: ./debs//com.com.deadtweak_1.7.deb
+Size: 5079114 
+MD5sum: 96b2f4f3687dc22c86413dd0e65bc1c7
+SHA1: b021528da360ed6aeca36ee5d33adb3c5b23661d
+SHA256: fe23a2d3602c0b57348099f8f5b2e256d6f864ee2de377a0b8676827a193adf5
+Architecture: iphoneos-arm
+Name: DeadTweak
+Author: Dead guy
+Sponsor: medo
+
+Author: Ahmad Mokadam <ahmadmokaddam@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Whatsapp Revael
+Package: org.thebigboss.whatsapprevael
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Section: Tweaks
+Installed-Size: 3670
+Version: 10.1-1
+Filename: ./debs//whatsapprevael_10.1-1.deb
+Size: 767486 
+MD5sum: 2646e045726d5ee8724134ac38d44d6f
+SHA1: 2141e68c5f09de2af92719af804e7abc44070404
+SHA256: 9109c8e4e8dbbe0ff2bf00f7c79014179e8a4326e06ce06b8c6ef2fb3d0fc972
+Architecture: iphoneos-arm
+Description: Many features of the WhatsApp application
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ahmadmokaddam
+Tag: purpose::extension
+Icon: file:///Library/Application%20Support/WARevael.bundle/icon@2x.png
+
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 14)
+Package: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Architecture: iphoneos-arm
+Description: The power supply relation of a device is operated.
+Filename: ./debs//com.ichitaso.powerselector11_1.3.3_iphoneos-arm.deb
+Size: 215836 
+MD5sum: acdd395e70d757afa84bcdc4f0cfda35
+SHA1: 9b6a455c3e5a3fd8524d73738dc962b3093560f4
+SHA256: a60c4ba3fd59462a90829392d8d02b4b6f801d534cad55023d0effdf1b6ed17f
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Version: 1.3.3
+Installed-Size: 2424
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Safari Plus
+Package: com.opa334.safariplus
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Section: Tweaks
+Size: 1198950 
+MD5sum: a1590235fb3f0d63d7767df692518ddc
+SHA1: e933e43b1e91fe8c7ba5ea74adbe0f24a2651048
+SHA256: a77d3c79006aed92df5b1541734d527fe4dc62fa23f5d14b44e10a68bbf1f15c
+Installed-Size: 5423
+Filename: ./debs//safariplus_1.7.18.deb
+Version: 1.7.18
+Architecture: iphoneos-arm
+Description: Various enhancements to Safari!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.5.2~EOL
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs//com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14406348 
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.gramplus/
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.gramplus/
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Instagram ++
+Package: com.unlimapps.gramplus
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus, com.jake0oo0.instabetter, com.insanj.savegram
+Filename: ./debs//com.unlimapps.gramplus_1.8r-330_iphoneos-arm.deb
+Size: 9602816 
+MD5sum: 9e5eee7185bfa96c06149d4159aae9f8
+SHA1: 425c48093e2f2751cdc1621fc3587e601a1190bb
+SHA256: 0b220bd95d09b1af792bb04a9edc5048d1fddc516b741104dd1041c80055c03d
+Section: Tweaks
+Version: 1.8r-330
+Architecture: iphoneos-arm
+Description: Download & Copy Instagram media
+dev: i4iphones
+Tag: purpose::extension, ios7support::1, ios8support::1
+
+Package: com.medo.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.9.1
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Filename: ./debs//com.medo.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 6756198 
+MD5sum: 0c2ac513199594b811c736385a669975
+SHA1: 675149c6a33afd5ce598e2e624625424bf8f93b3
+SHA256: 063f082f50e0adcca5ffd1c7aa39a92065d358ced6980bfde6e43f6bdb22db8d
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.medo-cydia.arabhack
+Version: 5.0.1
+Description: اداة عرب كراك لتهكير تضم مجموعه كبيره من البرامج المهكره مجانا لاصحاب الجلبريك
+Section: Tweaks
+Maintainer: medo For medo
+Filename: ./debs//com.medo-cydia.arabhack_5.0.deb
+Size: 733228 
+MD5sum: b9ef03426994db1bbe8893e7ad3b8967
+SHA1: 9bb4e070f10c269c70834c0a6093faf9268c1670
+SHA256: 7cd4d11d26be4cf0cb789e8d45eb777888e6b11c6c05a0773fcfdcbb71d0968c
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 2044
+Name: Arab Hack
+Author: medo For medo
+
+Package: medo.darque
+Version: 1.6
+Section: Themes
+Maintainer: medo
+Filename: ./debs//medo.darque_1.deb
+Size: 5980380 
+MD5sum: eaa2adda41f08f9d686ba93f6c7cce7e
+SHA1: 5ecd775c67fd3b9f0dacba09b21274237d0a2375
+SHA256: a5f2bb03cd548b65a784269619d8898127722583f9405a554eccda682c3eb308
+SileoDepiction: https://medo23-4.github.io/repo/
+Architecture: iphoneos-arm
+Name: Darque
+Author: medo
+Sponsor: https://medo23-4.github.io/repo/
+
+Package: com.medo.a-font
+Version: 1.9.3
+Section: Tweaks
+Description:تغيير خط الجهاز
+Maintainer: medo
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs//com.medo.a-font_1.9.deb
+Size: 867802 
+MD5sum: de07eb14289654b1b0c86f9b7eeeb7a2
+SHA1: 66616730909e47521827d2e71b5e851a4724aa57
+SHA256: e42a47e18f729374f999bd7c00650bd79546ced9213315cc6513194181a96cfc
+Architecture: iphoneos-arm
+Installed-Size: 2380
+Name: A-Font
+Author: medo
+
+Package: com.medo.bytafont2
+Depends: firmware (>= 7),applist,unzip
+Name: BytaFont 2
+Version: 2.6.4
+Architecture: iphoneos-arm
+Description: تغيير خط الجهاز
+Depiction: 
+Maintainer: medo
+Filename: ./debs//com.medo.bytafont2_2.6.4_iphoneos-arm.deb
+Size: 1665944 
+MD5sum: 4c164a10e466e1ab8920e8d1e84a4677
+SHA1: e7539f44a03b4d4a9ce76b47e1ed3f3e407bb62b
+SHA256: b675f7d6581991beaf293f5afbd37bf27cf036a91fc89a8a34bb8d3ac176e914
+Author: medo
+Sponsor: medo 
+Section: System
+
+Package: com.medo.DeadTweak14
+Version: 1.7.1
+Section: Tweaks
+Maintainer: @medo
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+SileoDepiction: سناب بريك يدعم اصدار14
+Filename: ./debs//com.medo.deadtweak14_1.7.deb
+Size: 5795298 
+MD5sum: a85942eca0a753c6c4b8a7a1a207d5af
+SHA1: 763dda0b0635d8881fef6fa62d555774041a8320
+SHA256: 179b48b562df3a576427ce4f185973532755b089108815b8cc7a6d30808b2814
+Architecture: iphoneos-arm
+Name: DeadTweak 14
+Author: Dead guy
+
+Package: com.snap.halem
+Version: 1.0-0+debug-1+debug
+Section: Tweaks
+Maintainer: medo
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+SileoDepiction: غير مسؤل عن الحظر
+Architecture: iphoneos-arm
+Filename: ./debs//com.snap.halem_1.deb
+Size: 5407216 
+MD5sum: b73a1175cbdde455af850cb45022326b
+SHA1: 2018271dca12ea4dd3d341f4d2b7dcd81580a7e8
+SHA256: 26f0d7b786e26088259f6ca638f6c2a1829d1869c55d6486e9f7248218798fd7
+Installed-Size: 452
+Name: Snap++
+Author: medo
+Sponsor: @medo
+
+Package: com.medo.repo
+Version: 3.0.1
+Section: Tweaks
+Maintainer: @medo
+Depends: mobilesubstrate
+SileoDepiction: medo
+Filename: ./debs//com.medo.repo_3.0.1_iphoneos-arm.deb
+Size: 118118 
+MD5sum: 0def46eddf9ff7cab32cd4e9c0f3ef67
+SHA1: cd9286041b6bc0df37fb50f0e254c9cad97f264e
+SHA256: 5892cd3009dc3bd2ebcf89a498f45b04b40761b7a0116e0fc4fefe27581d91dc
+Architecture: iphoneos-arm
+Installed-Size: 416
+Name: Video Star Hack
+Author: medo
+Sponsor: @medo
+
+Package: com.medo.sa
+Name: vpn ماستر
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @medo
+Filename: ./debs//com.medo.sa_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10490 
+MD5sum: 1f81c9a7a1befedd5db59c9ace81b27d
+SHA1: de85c650764cdb11a67a956b472d68676eb205bd
+SHA256: dcd98bc3afe44507ed11bddfa15c46e6d55d5c5a72194432df711dc3268f3f06
+Author: @medo
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 184
+
+Package: medo.newterm2
+Version: 2.5
+Section: Terminal Support
+Maintainer: @medo
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+SileoDepiction: medo
+Filename: ./debs//medo.newterm2_2.deb
+Size: 2997330 
+MD5sum: dbdd9891bd35d6e5e72e7c4c37e5d6ef
+SHA1: 85ec44f78185cacc95156627a967d2122bb1740a
+SHA256: 3db021b07de480acfaa5332093a01dcfb616e748cda87c24593e5b5b33430290
+Architecture: iphoneos-arm
+Installed-Size: 6664
+Name: NewTerm 2
+Author: medo
+Sponsor: medo
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Tag: compatible_min::ios10.0
+
+Package: com.medo.appdata
+Name: AppData
+Version: 1.3.6
+Description: View & Manage Applications Data from your Home Screen
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts:
+Architecture: iphoneos-arm
+Author: medo
+Filename: ./debs//com.medo.appdata_1.3.6_iphoneos-arm.deb
+Size: 269300 
+MD5sum: 8e2c9b4aa1482efe9c3e94aecbcc62e4
+SHA1: db667ab9e1c0c33b41b43e70711942395d7bf618
+SHA256: a4ef720a423e796744be8ffb41830729d273b29362d2ae3521160847e06c95ad
+Maintainer: medo
+Depiction: medo
+SileoDepiction: medo
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
+Package: medo.otadisabler
+Version: 0.1-9
+Section: Utilities
+Maintainer: @medo
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+SileoDepiction: medo
+Filename: ./debs//medo.otadisabler_0.deb
+Size: 17368 
+MD5sum: 0b78f949287a8bb85f4bb02f32a145e8
+SHA1: ea99cca776da7e0ce12926d26f6e0d9c300b7a49
+SHA256: 883f27a9bbd97ceb5a663e1983d1384784dc019e814defbef5e69545e04fef03
+Architecture: iphoneos-arm
+Installed-Size: 204
+Name: OTADisabler (ios 13 to 14)
+Author: medo
+Sponsor: medo
+
+Package: medo.crackerxii
+Version: 1.1.16
+Section: System
+Maintainer: @medo
+Depends: firmware (>= 11.0)
+Description: تكريك البرامج
+SileoDepiction: medo
+Architecture: iphoneos-arm
+Filename: ./debs//medo.crackerxii_1.1.deb
+Size: 9960204 
+MD5sum: 0c44c018c246c08d09ece6cd8136e67a
+SHA1: 1694114f70fae54153dd695a11c6ac6ee5929393
+SHA256: 19f587f0937bba156d04e3c36a373e455b1ee453a73ee0c38429e64b32f6d566
+Name: CrackerXI+
+Author: medo
+Sponsor: medo
+Icon: file:///Applications/crackerxi.app/AppIcon.png
