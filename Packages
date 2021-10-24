@@ -426,3 +426,24 @@ Author: @medo
 Section: Tweaks
 Version: 0.0.1-1+debug
 Installed-Size: 184
+
+Package: medo.newterm2
+Version: 2.5
+Section: Terminal Support
+Maintainer: @medo
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+SileoDepiction: medo
+Filename: ./debs//medo.newterm2_2.deb
+Size: 2997330 
+MD5sum: dbdd9891bd35d6e5e72e7c4c37e5d6ef
+SHA1: 85ec44f78185cacc95156627a967d2122bb1740a
+SHA256: 3db021b07de480acfaa5332093a01dcfb616e748cda87c24593e5b5b33430290
+Architecture: iphoneos-arm
+Installed-Size: 6664
+Name: NewTerm 2
+Author: medo
+Sponsor: medo
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Tag: compatible_min::ios10.0
