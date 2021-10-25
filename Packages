@@ -337,7 +337,7 @@ SHA1: e7539f44a03b4d4a9ce76b47e1ed3f3e407bb62b
 SHA256: b675f7d6581991beaf293f5afbd37bf27cf036a91fc89a8a34bb8d3ac176e914
 Author: medo
 Sponsor: medo 
-Section: System
+Section: Fonts (BytaFont 2)
 
 Package: com.medo.DeadTweak14
 Version: 1.7.1
@@ -568,3 +568,19 @@ Author: @medo
 Sponsor: medo
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 Tag: purpose::extension
+
+Package: medo.almohannadfontios8
+Version: 1.4-1
+Priority: extra
+Section: Fonts (BytaFont 2)
+Maintainer: @medo
+SileoDepiction: medo
+Filename: ./debs//medo.almohannadfontios8_1.deb
+Size: 5251726 
+MD5sum: 4f6874e7fdc41fc59465ac483deeea51
+SHA1: 826a8656b81526f3d2a3c2d979b4978342e71b97
+SHA256: 1f5820937588cfd2666c1713f3f480f60c109864b39cf200110907d5c51e296b
+Architecture: iphoneos-arm
+Name: Al Mohannad Font iOS8
+Author: @medo
+Sponsor: medo
