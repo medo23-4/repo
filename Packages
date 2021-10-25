@@ -337,7 +337,7 @@ SHA1: e7539f44a03b4d4a9ce76b47e1ed3f3e407bb62b
 SHA256: b675f7d6581991beaf293f5afbd37bf27cf036a91fc89a8a34bb8d3ac176e914
 Author: medo
 Sponsor: medo 
-Section: Fonts (BytaFont 2)
+Section: System
 
 Package: com.medo.DeadTweak14
 Version: 1.7.1
