@@ -528,3 +528,23 @@ SHA1: 88b20ef130c8d9fd58a7cadfeef6832ab14a1f01
 SHA256: 7a2fb862806e64e6deb35a3ef60b8117582b685c3609a977e9dbe118d59cef9f
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: medo.carrierizer
+Version: 1.1.0-1
+Priority: optional
+Section: ادوات معربة   
+Maintainer: @medo
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+SileoDepiction: medo
+Architecture: iphoneos-arm
+Installed-Size: 511
+Name: Carrierizer معربة
+Filename: ./debs//medo.carrierizer_1.1.deb
+Size: 114756 
+MD5sum: 2d3869aded0434454ddd4cf5baf75768
+SHA1: 1e9c645834ee88edf844e1c2963c09507f8c9b09
+SHA256: 8cff3c7bfb100023c1ad9ce419c289046dd9d30305010ea2c7c520ce664579d5
+Author: medo
+Sponsor: @medo
+Icon: file:///Library/PreferenceBundles/Carrierizer.bundle/Carrierizer@2x.png
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
