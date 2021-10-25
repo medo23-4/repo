@@ -322,23 +322,6 @@ Installed-Size: 2380
 Name: A-Font
 Author: medo
 
-Package: com.medo.bytafont2
-Depends: firmware (>= 7),applist,unzip
-Name: BytaFont 2
-Version: 2.6.4
-Architecture: iphoneos-arm
-Description: تغيير خط الجهاز
-Depiction: 
-Maintainer: medo
-Filename: ./debs//com.medo.bytafont2_2.6.4_iphoneos-arm.deb
-Size: 1665944 
-MD5sum: 4c164a10e466e1ab8920e8d1e84a4677
-SHA1: e7539f44a03b4d4a9ce76b47e1ed3f3e407bb62b
-SHA256: b675f7d6581991beaf293f5afbd37bf27cf036a91fc89a8a34bb8d3ac176e914
-Author: medo
-Sponsor: medo 
-Section: System
-
 Package: com.medo.DeadTweak14
 Version: 1.7.1
 Section: Tweaks
