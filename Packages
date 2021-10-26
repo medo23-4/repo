@@ -567,3 +567,18 @@ Architecture: iphoneos-arm
 Name: Al Mohannad Font iOS8
 Author: @medo
 Sponsor: medo
+
+Package: net.medo.cracktool
+Version: 4.0~beta9f
+Section: Utilities
+Maintainer: Julio
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+SileoDepiction: medo
+Filename: ./debs//net.medo.cracktool_4.deb
+Size: 725334 
+MD5sum: 64f4fbcab5999dda0bde11c65ff4bd8a
+SHA1: 68dd3437411571b9e2c18a670d2682d5c2c4d9a4
+SHA256: 46c1ee6399862ccaf39164e35fa4d8ad422387a41176e30717fe5ce3b6940766
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 12/13/14)
+Author: julioverne
